@@ -1,6 +1,6 @@
 ## MEDISCARE
 
-# live-site link : https://stoic-kare-7592ed.netlify.app/home This project was bootstrapped with Create React App.
+# live-site link : https://healthcare-617b8.web.app/ This project was bootstrapped with Create React App.
 
 # In the project directory, you can run:
 
